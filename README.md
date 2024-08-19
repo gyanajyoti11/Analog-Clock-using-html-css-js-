@@ -1,1 +1,2 @@
-Analog Clock Its Shows Real time this is the feature of the code.
+Analog Clock Its Shows Real times, 
+This is the feature of this code.
